@@ -1,8 +1,8 @@
 ## Oi, eu sou Nickael Calldas, analista e desenvolvedor de sistemas!
 <div align="center">
   <a href="https://github.com/NickaelCalldas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickaelcalldas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickaelcalldas&layout=compact&langs_count=7&theme=dark"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickaelCalldas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickaelCalldas&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
  <br>
  
