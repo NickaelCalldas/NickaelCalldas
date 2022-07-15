@@ -1,6 +1,6 @@
-## Oi, eu sou Nickael Calldas, analista e desenvolvedor de sistemas!
-👉 Trabalho atualmente como Agente Censitário Municipal - IBGE
-👨‍💻 Estudando Desenvolvimento WEB FullStack - HTML, CSS, JAVASCRIPT, JAVA, ANGULAR E Spring Framework
+## Oi, eu sou Nickael Calldas, analista e desenvolvedor de sistemas!<br>
+👉 Trabalho atualmente como Agente Censitário Municipal - IBGE<br>
+👨‍💻 Estudando Desenvolvimento WEB FullStack - HTML, CSS, JAVASCRIPT, JAVA, ANGULAR E Spring Framework<br>
 
 <div align="center">
   <a href="https://github.com/NickaelCalldas">
